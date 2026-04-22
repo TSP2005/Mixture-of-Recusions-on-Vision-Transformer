@@ -1,0 +1,9 @@
+# Transfer evaluation config
+model:
+  checkpoint: checkpoints/mor_vit_ckpt.pt
+dataset:
+  name: cifar100
+  data_dir: ./data
+evaluation:
+  batch_size: 64
+  device: cuda

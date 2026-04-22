@@ -2,15 +2,6 @@
 MoR/
 Implement/
 
-# Ignore common large or generated assets
-*.pdf
-*.pptx
-*.jpg
-*.jpeg
-*.png
-*.zip
-*.tar.gz
-
 # Ignore editor / OS files
 .DS_Store
 Thumbs.db
